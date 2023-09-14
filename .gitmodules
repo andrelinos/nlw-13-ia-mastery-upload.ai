@@ -1,0 +1,6 @@
+[submodule "nlw-13-ia-mastery-web"]
+	path = nlw-13-ia-mastery-web
+	url = https://github.com/andrelinos/nlw-13-ia-mastery-web.git
+[submodule "nlw-13-ia-mastery-api"]
+	path = nlw-13-ia-mastery-api
+	url = https://github.com/andrelinos/nlw-13-ia-mastery-api.git
