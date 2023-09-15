@@ -1,0 +1,6 @@
+{
+  "eslint.workingDirectories": [
+    "nlw-13-ia-mastery-api",
+    "nlw-13-ia-mastery-web",
+  ],
+}
